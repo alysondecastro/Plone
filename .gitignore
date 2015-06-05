@@ -1,2 +1,7 @@
 /src
 /var
+/bin
+/develop-eggs
+/parts
+.installed.cfg
+.mr.developer.cfg
